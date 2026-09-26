@@ -45,7 +45,7 @@ PROCEDURE
 
 Model Waveform
 
-<img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd059ad5-e9da-42b0-ad4a-5b038f967e50" />
 
 Program
 ```

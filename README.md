@@ -43,9 +43,6 @@ PROCEDURE
 •	If any Error, correct it in code and execute again
 •	Verify the generated waveform using Tabulation and Model Waveform
 
-Model Waveform
-
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd059ad5-e9da-42b0-ad4a-5b038f967e50" />
 
 Program
 ```
@@ -75,7 +72,8 @@ Output Graph
 
 Tablular Column
 
-<img width="1054" height="1600" alt="image" src="https://github.com/user-attachments/assets/88d9334d-1a13-454f-a4dc-a3eeafb5f123" />
+
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd059ad5-e9da-42b0-ad4a-5b038f967e50" />
 
 
 Result
